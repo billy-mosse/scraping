@@ -6,7 +6,7 @@ A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL
 
-http://mybinder.org/v2/gh/binder-examples/requirements/master
+https://mybinder.org/v2/gh/billy-mosse/scraping/master?urlpath=%2Fvoila%2Frender%2Findex.ipynb
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
