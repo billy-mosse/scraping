@@ -7,3 +7,10 @@ filtering "type" = "video",
 filtering "order by" = relevance, view count, rating
 
 In other words, each phrase should generate 3 numbers, one for each sorting.
+
+# app
+
+To run the app do
+``js
+`npm start
+``
