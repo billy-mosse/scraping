@@ -12,5 +12,6 @@ In other words, each phrase should generate 3 numbers, one for each sorting.
 
 To run the app do
 ``js
-`npm start
+npm install
+npm start
 ``
